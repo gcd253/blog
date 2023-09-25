@@ -1,8 +1,5 @@
 import Link from "next/link"
 
-//components
-import About from "../about/page"
-
 export default function Navbar() {
   return (
     <nav>
